@@ -10,5 +10,3 @@
     <p>Môn học: Nhập môn CNKTMT</p>
 </body>
 </html>
-#Hồ Đăng An
-#MSSV 25119051
