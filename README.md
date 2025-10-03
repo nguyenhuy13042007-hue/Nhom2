@@ -4,4 +4,4 @@ if n % 2 == 0:
 else:
     print(n, "là số lẻ")
 #Hồ Đăng An
-#MSSSV 25119051
+#MSSV 25119051
