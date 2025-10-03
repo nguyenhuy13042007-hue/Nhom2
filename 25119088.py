@@ -1,4 +1,5 @@
 # File cá nhân của Huy
+i=0
 def name():
     while i<100:
         print("tui là ghuy")
