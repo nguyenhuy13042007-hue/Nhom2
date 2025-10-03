@@ -3,7 +3,6 @@
 <html lang="vi">
 <head>
     <meta charset="UTF-8">
-    <title>Thông tin cá nhân</title>
 </head>
 <body>
     <h1>Họ tên: Hồ Đăng An</h1>
